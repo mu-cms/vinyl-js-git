@@ -1,0 +1,19 @@
+{
+  "name": "@mu-cms/vinyl-js-git",
+  "version": "0.0.0",
+  "description": "Vinyl adapter for js-git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mu-cms/vinyl-js-git.git"
+  },
+  "author": "Mikael Karon <mikael@karon.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mu-cms/vinyl-js-git/issues"
+  },
+  "homepage": "https://github.com/mu-cms/vinyl-js-git#readme"
+}
